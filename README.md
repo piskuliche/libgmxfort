@@ -1,8 +1,6 @@
 # libgmxfort
 
-**Repository update 10/03/2020: This project has been archived and is read-only. I can no
-longer support users with the library. I hope it was useful to you in your analysis.
-Please fork and keep developing it if you have found it useful.**
+**Note: This is a fork of the repo libgmxfort: https://github.com/wesbarnett/libgmxfort. I am not actively developing, or supporting this software; however, one of my repos depends on having access to this software, so I am preserving it.**
 
 [![DOI](https://zenodo.org/badge/71169051.svg)](https://zenodo.org/badge/latestdoi/71169051)
 
